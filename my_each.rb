@@ -11,7 +11,7 @@ def my_each(array)
   end
 end
 
-my_each(list) {|i| p " "}
+
 
 # Use the collection method 
 # To make the *return-value* the answer you want
