@@ -20,4 +20,4 @@ def hello(array)
   collection
 end
 
-hello(list) {|i| " #{i}"}
+hello(list) {|i| "#{i}"}
