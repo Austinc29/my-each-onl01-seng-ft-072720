@@ -27,4 +27,3 @@ def hello(array)
   collection
 end
 
-hello(list) {|i| " "}
